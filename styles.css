@@ -1,0 +1,21 @@
+header {
+    background-color: lightblue;
+    text-align: center;
+    font-family: arial;
+    color: red;
+}
+
+.music1 {
+    color: lightgreen;
+    font-family: arial;
+    background-image: linear-gradient(to right, red, blue, white);
+}
+
+summary {
+    font-size: 20px;
+    font-family: impact;
+}
+
+.header {
+    text-align: center;
+}
